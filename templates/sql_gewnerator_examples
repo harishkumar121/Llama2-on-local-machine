@@ -1,0 +1,42 @@
+Here is a list of open-source language models that can be used for generating SQL queries and validating their output:
+1. BART (Bidirectional Encoder Representations from Transformers): A popular language model developed by Facebook AI that can be fine-tuned for specific tasks like SQL query generation.
+2. T5 (Text-to-Text Transformer): A text-to-text transformer model that can be used for a wide range of natural language processing tasks, including SQL query generation.
+3. ELECTRA (Efficient Lifelong End-to-End Text Recognition with Attention): A text-to-text transformer model that can be used for generating SQL queries and validating their output.
+4. Megatron-LM (Mega Transformer Language Model): A large language model that can be used for generating SQL queries and validating their output.
+5. DistilBERT (Distilled BERT): A smaller and more efficient version of BERT that can be used for generating SQL queries and validating their output.
+As for GitHub repositories that use LLMS to generate natural language to SQL queries, here are a few examples:
+1. sqllvm/sql-query-generator: This repository uses T5 to generate SQL queries from natural language input. It also includes a database interface to validate the queries and generate the output.
+2. ni-iu/sql-query-gen: This repository uses BART to generate SQL queries from natural language input. It also includes a database interface to validate the queries and generate the output.
+3. alibaba/nl-sql: This repository uses a combination of BERT and T5 to generate SQL queries from natural language input. It also includes a database interface to validate the queries and generate the output.
+4. moxoor/sql-query-generator-bert: This repository uses DistilBERT to generate SQL queries from natural language input. It also includes a database interface to validate the queries and generate the output.
+5. zhangjunjie/sql-query-generator-t5: This repository uses T5 to generate SQL queries from natural language input. It also includes a database interface to validate the queries and generate the output.
+Keep in mind that these are just a few examples, and there are many other repositories and models available that can be used for generating SQL queries from natural language input.
+
+sqllvm/sql-query-generator < 
+https://github.com/sqllvm/sql-query-generator
+>
+2. ni-iu/sql-query-gen <https://github.com/ni-iu/sql-query-gen>
+3. alibaba/nl-sql <https://github.com/alibaba/nl-sql>
+4. moxoor/sql-query-generator-bert <https://github.com/moxoor/sql-query-generator-bert>
+5. zhangjunjie/sql-query-generator-t5 <https://github.com/zhangjunjie/sql-query-generator-t5>
+I hope this helps! Let me know if you have any other questions.
+
+
+1. GitHub:
+* Search results for "sql query generator" <https://github.com/search?q=sql+query+generator&type=Repositories>
+* Search results for "natural language to sql" <https://github.com/search?q=natural+language+to+sql&type=Repositories>
+
+2. Hugging Face:
+* Collection of SQL query generator models <https://huggingface.co/models?filter=sql+query+generator>
+* Collection of natural language to SQL models <https://huggingface.co/models?filter=natural+language+to+sql>
+
+3. GitLab:
+* Search results for "sql query generator" <https://gitlab.com/search?q=sql+query+generator&type=Repositories>
+* Search results for "natural language to sql" <https://gitlab.com/search?q=natural+language+to+sql&type=Repositories>
+
+4. Bitbucket:
+* Search results for "sql query generator" <https://bitbucket.org/search?q=sql+query+generator&type=Repositories>
+* Search results for "natural language to sql" <https://bitbucket.org/search?q=natural+language+to+sql&type=Repositories>
+
+
+
