@@ -1,6 +1,4 @@
 # Llama2-on-local-machine
-# Llama2-on-CPU-Machine
-
 # How to run?
 
 ### Steps 1:
@@ -8,7 +6,7 @@
 clone the repository
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/harishkumar121/Llama2-on-local-machine.git
 ```
 
 ### Steps 2:
