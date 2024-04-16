@@ -14,7 +14,7 @@ git clone https://github.com/harishkumar121/Llama2-on-local-machine.git
 Create a virtual environment
 
 ```bash
-conda create -n cpullama python=3.8 -y
+conda create -n cpullama python=3.9 -y
 ```
 
 ```bash
