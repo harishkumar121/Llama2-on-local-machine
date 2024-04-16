@@ -14,7 +14,6 @@ def parse_and_split(
     chunk_overlap: int = 100,
 ) -> list[Document]:
     """Parse a PDF and split it into chunks.
-
     Parameters
     ----------
     path : str or pathlib.Path
@@ -86,8 +85,6 @@ def clean_chunks(
     return clean_chunks
 
 def clean_text(text: str) -> str:
-
-    
     """
     Return a lower case version of text with punctuation removed.
 
