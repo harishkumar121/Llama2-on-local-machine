@@ -2,7 +2,11 @@ import os
 from pathlib import Path
 import logging
 
+"""
+template will crate neccesary directories and files 
 
+
+"""
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
